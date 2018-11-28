@@ -1,0 +1,446 @@
+--------------------------------------------------
+Tue Nov 27 15:12:03 IST 2018 INFO
+Issuing: prepare
+
+Tue Nov 27 15:12:07 IST 2018 INFO
+Scan created.
+
+Tue Nov 27 15:12:07 IST 2018 INFO
+Preparing the IRX file from CLI using SAClientUtil version 6.0.1261 on Windows 10
+
+Tue Nov 27 15:12:07 IST 2018 INFO
+Discovering targets...
+
+Tue Nov 27 15:12:09 IST 2018 INFO
+Target added: SimpleIOT
+
+Tue Nov 27 15:12:09 IST 2018 INFO
+Scan saved.
+
+Tue Nov 27 15:12:09 IST 2018 INFO
+Validating...
+
+Tue Nov 27 15:12:13 IST 2018 INFO
+No problems found during validation.
+
+Tue Nov 27 15:12:13 IST 2018 INFO
+Generating IRX file...
+
+Tue Nov 27 15:12:13 IST 2018 INFO
+Processing target SimpleIOT-Maven.jar (1 of 2)
+
+Tue Nov 27 15:12:14 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Tue Nov 27 15:12:24 IST 2018 INFO
+Completed Framework Analysis
+
+Tue Nov 27 15:12:24 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 28)
+
+Tue Nov 27 15:12:25 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 28)
+
+Tue Nov 27 15:12:26 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 28)
+
+Tue Nov 27 15:12:26 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 28)
+
+Tue Nov 27 15:12:26 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 28)
+
+Tue Nov 27 15:12:27 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 28)
+
+Tue Nov 27 15:12:27 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 28)
+
+Tue Nov 27 15:12:27 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 28)
+
+Tue Nov 27 15:12:28 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 28)
+
+Tue Nov 27 15:12:28 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 28)
+
+Tue Nov 27 15:12:28 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 28)
+
+Tue Nov 27 15:12:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 28)
+
+Tue Nov 27 15:12:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 28)
+
+Tue Nov 27 15:12:29 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 28)
+
+Tue Nov 27 15:12:29 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 28)
+
+Tue Nov 27 15:12:29 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 28)
+
+Tue Nov 27 15:12:30 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 28)
+
+Tue Nov 27 15:12:30 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 28)
+
+Tue Nov 27 15:12:30 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 28)
+
+Tue Nov 27 15:12:30 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 28)
+
+Tue Nov 27 15:12:30 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 28)
+
+Tue Nov 27 15:12:30 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 28)
+
+Tue Nov 27 15:12:31 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 28)
+
+Tue Nov 27 15:12:31 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 28)
+
+Tue Nov 27 15:12:31 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 28)
+
+Tue Nov 27 15:12:31 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 28)
+
+Tue Nov 27 15:12:32 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 28)
+
+Tue Nov 27 15:12:32 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 28)
+
+Tue Nov 27 15:12:32 IST 2018 INFO
+Processing target classes (2 of 2)
+
+Tue Nov 27 15:12:32 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Completed Framework Analysis
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 28)
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 28)
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 28)
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 28)
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 28)
+
+Tue Nov 27 15:12:42 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 28)
+
+Tue Nov 27 15:12:43 IST 2018 INFO
+Writing the internal artifact...
+
+Tue Nov 27 15:12:44 IST 2018 INFO
+Completed writing the internal artifact
+
+Tue Nov 27 15:12:45 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
+--------------------------------------------------
+Tue Nov 27 15:41:17 IST 2018 INFO
+Issuing: prepare
+
+Tue Nov 27 15:41:23 IST 2018 INFO
+Scan created.
+
+Tue Nov 27 15:41:23 IST 2018 INFO
+Preparing the IRX file from CLI using SAClientUtil version 6.0.1261 on Windows 10
+
+Tue Nov 27 15:41:23 IST 2018 INFO
+Discovering targets...
+
+Tue Nov 27 15:41:24 IST 2018 INFO
+Target added: SimpleIOT-Maven
+
+Tue Nov 27 15:41:24 IST 2018 INFO
+Scan saved.
+
+Tue Nov 27 15:41:24 IST 2018 INFO
+Validating...
+
+Tue Nov 27 15:41:30 IST 2018 INFO
+No problems found during validation.
+
+Tue Nov 27 15:41:30 IST 2018 INFO
+Generating IRX file...
+
+Tue Nov 27 15:41:30 IST 2018 INFO
+Processing target SimpleIOT-Maven.jar (1 of 2)
+
+Tue Nov 27 15:41:31 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Tue Nov 27 15:41:45 IST 2018 INFO
+Completed Framework Analysis
+
+Tue Nov 27 15:41:45 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 28)
+
+Tue Nov 27 15:41:46 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 28)
+
+Tue Nov 27 15:41:47 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 28)
+
+Tue Nov 27 15:41:47 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 28)
+
+Tue Nov 27 15:41:47 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 28)
+
+Tue Nov 27 15:41:48 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 28)
+
+Tue Nov 27 15:41:48 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 28)
+
+Tue Nov 27 15:41:49 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 28)
+
+Tue Nov 27 15:41:49 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 28)
+
+Tue Nov 27 15:41:49 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 28)
+
+Tue Nov 27 15:41:49 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 28)
+
+Tue Nov 27 15:41:50 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 28)
+
+Tue Nov 27 15:41:51 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 28)
+
+Tue Nov 27 15:41:51 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 28)
+
+Tue Nov 27 15:41:51 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 28)
+
+Tue Nov 27 15:41:51 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 28)
+
+Tue Nov 27 15:41:51 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 28)
+
+Tue Nov 27 15:41:51 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 28)
+
+Tue Nov 27 15:41:52 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 28)
+
+Tue Nov 27 15:41:52 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 28)
+
+Tue Nov 27 15:41:52 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 28)
+
+Tue Nov 27 15:41:52 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 28)
+
+Tue Nov 27 15:41:53 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 28)
+
+Tue Nov 27 15:41:53 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 28)
+
+Tue Nov 27 15:41:53 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 28)
+
+Tue Nov 27 15:41:53 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 28)
+
+Tue Nov 27 15:41:54 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 28)
+
+Tue Nov 27 15:41:54 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 28)
+
+Tue Nov 27 15:41:54 IST 2018 INFO
+Processing target classes (2 of 2)
+
+Tue Nov 27 15:41:54 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Completed Framework Analysis
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 28)
+
+Tue Nov 27 15:42:06 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 28)
+
+Tue Nov 27 15:42:07 IST 2018 INFO
+Writing the internal artifact...
+
+Tue Nov 27 15:42:08 IST 2018 INFO
+Completed writing the internal artifact
+
+Tue Nov 27 15:42:11 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
